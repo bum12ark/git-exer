@@ -1,5 +1,5 @@
 Country와 함께하는 Git 교실
-- master pr confilct
+- master & feature pr confilct
 
 - rebase 1.2.
 - rebase 3.
